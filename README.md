@@ -7,6 +7,6 @@ At the and of the website the client can book the table and the time of arrival 
 
 Form validation and modal window to proof that the details are correct.
 
-The gitHub link for the preview is:
+The gitHub link for this project is:
 https://stegua5.github.io/JS_Project/
 
